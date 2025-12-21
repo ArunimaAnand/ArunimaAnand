@@ -4,7 +4,7 @@
 
 I have studied patterns for as long as I can remember. Growing up as a dancer helped me appreciate rhythm and structure, and that instinct naturally evolved into how I think about sequences, temporal behavior, and data dynamics today. I enjoy exploring how small variations influence large systems, whether in choreography or in statistical models.
 
-I build machine learning systems that blend statistical reasoning, algorithmic precision, and scalable engineering. My work spans forecasting architectures, feature-weighted scoring systems, retrieval-augmented pipelines, embeddings-driven search, and enterprise-grade applied ML. At Deloitte, I spent 3 years designing end-to-end intelligence systems, experimenting with LLM-based automation, and applying RLHF-inspired evaluation loops to enhance AI-assisted workflows and human-in-the-loop decision processes.
+II build machine learning systems that blend statistical reasoning, algorithmic precision, and scalable engineering. My work spans large-scale time-series forecasting, feature-weighted scoring frameworks, NLP-based risk and fraud detection, retrieval-augmented pipelines, embeddings-driven search, and enterprise-grade applied ML. At Deloitte, I spent 3 years owning end-to-end intelligence systems, scaling 7,000+ adaptive forecasting models, deploying low-latency scoring in production, and using RLHF-inspired evaluation loops and LLM-based automation to improve AI-assisted workflows and human-in-the-loop decision making.
 
 Currently at UC San Diego, I am deepening my understanding of machine learning theory, algorithmic foundations, statistical modeling, and modern AI while exploring how creativity and analytical clarity complement each other.
 
