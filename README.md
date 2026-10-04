@@ -16,19 +16,19 @@ I am pursuing my M.S. in Data Science at UC San Diego (expected December 2026), 
 
 # 🔍 **What I Work On**
 
-🧠 Designing and validating models through statistical reasoning, causal inference, A/B testing, holdout evaluation, sensitivity analysis, and model diagnostics
+🧠 Designing explainable models and validating them through statistical reasoning, experimentation, and rigorous evaluation
 
-🔎 Turning unstructured data into interpretable signals through representation learning, clustering, and pattern discovery
+📈 Understanding temporal patterns to forecast outcomes and support planning
 
-📈 Understanding temporal behavior through lag and rolling-window features, model benchmarking, and adaptive model selection
+🔎 Turning unstructured data into meaningful signals through retrieval, representation learning, and pattern discovery
 
-⚙️ Making models efficient and maintainable through reproducible pipelines, low-latency serving, monitoring, drift detection, and versioning
+🤖 Building and evaluating LLM-powered systems that make information easier to find, understand, and use
 
-🤖 Evaluating generated outputs for quality and grounding, with retrieval and human annotations guiding model assessment
+⚙️ Architecting scalable, efficient, and maintainable ML systems from experimentation through production
 
-🛠️ Connecting model outputs to APIs, cloud infrastructure, dashboards, and product workflows that people can use
+🛠️ Translating model outputs into practical tools that support decisions and product experiences
 
-👁️ Combining visual and textual signals to automate structured data capture and support monitoring and planning
+👁️ Combining visual and textual data to automate workflows and uncover useful insights
 
 ---
 
