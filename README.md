@@ -2,9 +2,9 @@
 
 ### **Data Science Graduate Student at UC San Diego 👩🏻‍🎓 | Former Applied Science Intern at The Trade Desk & Data Scientist II at Deloitte 👩🏻‍💻 | Applied Science, Scalable ML Systems & Production AI 💡**
 
-I have been drawn to patterns for as long as I can remember. Growing up as a dancer taught me to notice rhythm, structure, repetition, and small variations. That instinct now shapes how I think about sequences, changing data, and model behavior. I enjoy understanding how small signals influence larger systems, whether in choreography, audience measurement, or demand forecasting.
+I have been drawn to patterns for as long as I can remember. Growing up as a dancer taught me to notice rhythm, structure, repetition, and small variations. That instinct now shapes how I think about sequences, changing data, and model behavior. I enjoy understanding how small signals influence larger systems, whether in choreography, forecasting, or the behavior of a learning system.
 
-I bring that curiosity to building machine learning systems that combine statistical reasoning, algorithmic precision, and scalable engineering. My work spans probabilistic audience measurement in ad tech, knowledge distillation, production forecasting systems, recommender systems and personalized ranking, NLP and embeddings-based pattern discovery, and evidence-grounded LLM evaluation. Across these areas, I focus on turning modeling ideas into reliable systems that support practical decisions.
+I bring that curiosity to building machine learning systems that combine statistical reasoning, algorithmic precision, and scalable engineering. My work spans probabilistic modeling and algorithms for measurement and identity, knowledge distillation, production forecasting systems, recommendation and personalization, NLP and embeddings-based pattern discovery, and evidence-grounded LLM evaluation. I focus on explainable models and on turning modeling ideas into reliable systems that support practical decisions.
 
 At The Trade Desk, I worked as an Applied Science Intern in Measurement & Identity, developing a prototype audience-reach estimator over 16B+ ad events using censored frequency modeling, identity-graph signals, HyperLogLog sketches, and vectorized feature embeddings. I built PySpark pipelines, validated estimates through temporal and entity holdouts, sensitivity tests, and A/B tests, and used knowledge distillation to transfer richer signals into LightGBM models with sub-50 ms inference. I also productionized estimator outputs through Databricks APIs integrated with the trading platform, supporting reach analysis, cohort diagnostics, and continuous monitoring.
 
@@ -16,19 +16,19 @@ I am pursuing my M.S. in Data Science at UC San Diego (expected December 2026), 
 
 # 🔍 **What I Work On**
 
-🧠 Applied science and deep learning for identity and audience measurement, recommendation, ranking, and classification, grounded in causal inference, A/B testing, holdout validation, sensitivity analysis, and model diagnostics
+🧠 Designing and validating models through statistical reasoning, causal inference, A/B testing, holdout evaluation, sensitivity analysis, and model diagnostics
 
-🔎 NLP and representation learning systems that transform messy free-text signals into structured intelligence through BERT embeddings, clustering, and association mining
+🔎 Turning unstructured data into interpretable signals through representation learning, clustering, and pattern discovery
 
-📈 Time-series modeling that integrates statistical forecasting, tree-based models, neural architectures (LSTMs), adaptive model selection, and production-scale batch inference
+📈 Understanding temporal behavior through lag and rolling-window features, model benchmarking, and adaptive model selection
 
-⚙️ ML engineering workflows focused on scalable, reproducible pipelines, efficient model serving, knowledge distillation, monitoring, drift detection, and model versioning
+⚙️ Making models efficient and maintainable through reproducible pipelines, low-latency serving, monitoring, drift detection, and versioning
 
-🤖 LLM and GenAI workflows that combine model adaptation, retrieval, semantic search, and evidence-grounded evaluation to produce useful, measurable outputs
+🤖 Evaluating generated outputs for quality and grounding, with retrieval and human annotations guiding model assessment
 
-🛠️ Production AI systems that connect model development, validation, APIs, cloud infrastructure, dashboards, and stakeholder-facing decision tools
+🛠️ Connecting model outputs to APIs, cloud infrastructure, dashboards, and product workflows that people can use
 
-👁️ Computer vision and LLM workflows that turn images into structured records, monitoring dashboards, and forecasts
+👁️ Combining visual and textual signals to automate structured data capture and support monitoring and planning
 
 ---
 
@@ -48,11 +48,11 @@ I am pursuing my M.S. in Data Science at UC San Diego (expected December 2026), 
 
 # 🌱 **What Motivates Me**
 
-✅ Explainable models that combine statistical depth, engineering reliability, and practical usability
+✅ Explainable models that help people understand predictions and make informed decisions
 
-✅ ML systems that are accurate, interpretable, monitored, and adaptable as data evolves
+✅ Learning how model behavior changes as data evolves, and using that understanding to improve performance
 
-✅ ML pipelines that move cleanly from experimentation to production and remain useful beyond demos
+✅ Taking promising experiments into production through reliable deployment, efficient inference, and maintainable pipelines
 
 ✅ LLM and applied AI workflows that simplify complex technical problems through structure, clarity, and thoughtful design
 
